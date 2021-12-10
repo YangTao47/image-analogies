@@ -1,4 +1,4 @@
-neural image analogies
+neural image analogies  非常好的工业数据增强手段！
 ----------------------
 ![Image of arch](https://raw.githubusercontent.com/awentzonline/image-analogies/master/examples/images/image-analogy-explanation.jpg)
 ![Image of Sugar Steve](https://raw.githubusercontent.com/awentzonline/image-analogies/master/examples/images/sugarskull-analogy.jpg)
